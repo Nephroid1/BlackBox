@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "nephroid_blackbox:blocks/block_compressedobsidian",
+        "up": "nephroid_blackbox:blocks/block_compressedobsidian",
+        "north": "nephroid_blackbox:blocks/block_compressedobsidian",
+        "east": "nephroid_blackbox:blocks/block_compressedobsidian",
+        "south": "nephroid_blackbox:blocks/block_compressedobsidian",
+        "west": "nephroid_blackbox:blocks/block_compressedobsidian",
+        "particle": "nephroid_blackbox:blocks/block_compressedobsidian"
+    }
+}

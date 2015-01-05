@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "nephroid_blackbox:blocks/block_blackbox",
+        "up": "nephroid_blackbox:blocks/block_blackbox",
+        "north": "nephroid_blackbox:blocks/block_blackbox",
+        "east": "nephroid_blackbox:blocks/block_blackbox",
+        "south": "nephroid_blackbox:blocks/block_blackbox",
+        "west": "nephroid_blackbox:blocks/block_blackbox",
+        "particle": "nephroid_blackbox:blocks/block_blackbox"
+    }
+}

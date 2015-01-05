@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "nephroid_blackbox:blocks/block_enderpearl",
+        "up": "nephroid_blackbox:blocks/block_enderpearl",
+        "north": "nephroid_blackbox:blocks/block_enderpearl",
+        "east": "nephroid_blackbox:blocks/block_enderpearl",
+        "south": "nephroid_blackbox:blocks/block_enderpearl",
+        "west": "nephroid_blackbox:blocks/block_enderpearl",
+        "particle": "nephroid_blackbox:blocks/block_enderpearl"
+    }
+}

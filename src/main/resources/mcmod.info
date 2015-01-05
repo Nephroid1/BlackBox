@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nephroid_blackbox",
+  "name": "Black Box Mod",
+  "description": "Black Box Mod",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nephroid"],
+  "credits": "The Forge, MCP, and FML guys, for making it possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
